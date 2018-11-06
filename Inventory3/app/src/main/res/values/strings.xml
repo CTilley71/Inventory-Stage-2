@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Inventory3</string>
+
+    <!-- Label for overflow menu option that inserts fake item data into the app [CHAR LIMIT=20] -->
+    <string name="action_insert_dummy_data">Insert Dummy Data</string>
+
+    <!-- Label for overflow menu option that deletes all item data in the app [CHAR LIMIT=20] -->
+    <string name="action_delete_all_entries">Delete All Items</string>
+
+    <!-- Title for the activity to add a new item [CHAR LIMIT=20] -->
+    <string name="editor_activity_title_new_item">Add an Item</string>
+
+    <!-- Label for editor menu option to save Item and leave editor [CHAR LIMIT=20] -->
+    <string name="action_save">Save</string>
+
+    <!-- Label for editor overflow menu option that deletes the current Item [CHAR LIMIT=20] -->
+    <string name="action_delete">Delete</string>
+
+    <!-- Label for overview category of attributes in the editor [CHAR LIMIT=30] -->
+    <string name="category_overview">Overview</string>
+
+    <!-- Label for Supplier Name information in the editor [CHAR LIMIT=30] -->
+    <string name="category_supplierName">Supplier Name</string>
+
+    <!-- Text hint for product name field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_product_name">Product Name</string>
+
+    <!-- Text hint for price field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_price">Price</string>
+
+    <!-- Text hint for quantity field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_quantity">Quantity</string>
+
+    <!-- Text hint for supplier phone field in the editor [CHAR LIMIT=30] -->
+    <string name="hint_supplierPhone">Supplier Phone</string>
+
+    <!-- Label for dropdown menu option if the supplier is IBM[CHAR LIMIT=20] -->
+    <string name="supplier_IBM">IBM</string>
+
+    <!-- Label for dropdown menu option if the supplier is Google [CHAR LIMIT=20] -->
+    <string name="supplier_google">Google</string>
+
+    <!-- Label for dropdown menu option if the supplier is Baxter[CHAR LIMIT=20] -->
+    <string name="supplier_baxter">Baxter</string>
+
+    <string name="category_supplier_phone">Supplier Phone</string>
+
+    <string name="editor_insert_pet_successful">Item saved</string>
+
+    <string name="editor_insert_pet_failed">Error with saving item.</string>
+    <string name="supplier_name">Supplier Name</string>
+</resources>
+
